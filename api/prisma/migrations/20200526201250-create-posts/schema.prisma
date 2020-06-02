@@ -1,6 +1,6 @@
 datasource DS {
   provider = "postgresql"
-  url = "***"
+  url      = "***"
 }
 
 generator client {
